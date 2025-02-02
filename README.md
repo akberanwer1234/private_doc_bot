@@ -177,8 +177,8 @@ Pull requests are welcome! If you’d like to contribute:
 ## 📧 Contact
 For any questions, feel free to reach out:
 - **Email:** akber.anwer1234@gmail.com
-- **GitHub:** [your-github-handle](https://github.com/akberanwer1234/private_doc_bot)
-- **LinkedIn:** [your-github-handle](https://www.linkedin.com/in/muhammad-a-28b6511aa/)
+- **GitHub:** [akberanwer1234](https://github.com/akberanwer1234/private_doc_bot)
+- **LinkedIn:** [Muhammad_Akbar](https://www.linkedin.com/in/muhammad-a-28b6511aa/)
 
 ---
 
